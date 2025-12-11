@@ -5,18 +5,8 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/10_2025 Resume.docx.pdf" | relative_url }}) in PDF format.
 
-<!-- Embedded PDF for inline viewing -->
-<div style="margin:1rem 0;">
-	<iframe src="{{ "/assets/CV.pdf" | relative_url }}" width="100%" height="800" style="border:1px solid #ddd;"></iframe>
-</div>
-<!-- Fallback for browsers that block iframes: an object tag with download link -->
-<div>
-	<object data="{{ "/assets/CV.pdf" | relative_url }}" type="application/pdf" width="100%" height="800">
-		<p>Your browser does not support inline PDFs. You can <a href="{{ "/assets/CV.pdf" | relative_url }}">download the PDF</a> instead.</p>
-	</object>
-</div>
 
 **Objective**
 Aspiring Mechanical engineering student graduating in 2027 with a strong passion for clean energy and sustainable systems.
