@@ -9,6 +9,7 @@ image: assets/images/FEM.png
 Reflection
 1. Image(s) of CAD model. Must show all key dimensions.
 ![CAD screenshot](/assets/images/screenshot-2025-12-10-8-28-34-PM.png)
+![CAD screenshot 2](/assets/images/Cad 2.png)
 
 2. Describe material used and its relevant mechanical properties.
 Material: Aluminum 7075 T62 
