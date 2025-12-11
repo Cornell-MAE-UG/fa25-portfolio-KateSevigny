@@ -4,13 +4,11 @@ title: MAE 3270 Final Project
 description: Torque Wrench Design
 technologies: [Autodesk Fusion 360 and Ansys]
 image: assets/images/FEM.png
-permalink: /projects/mae-3270-final-project/
 ---
 
 Reflection
 1. Image(s) of CAD model. Must show all key dimensions.
 
-![CAD Screenshot](assets/images/screenshot-2025-12-10-8-28-34-PM.png)
 
 2. Describe material used and its relevant mechanical properties.
 Material: Aluminum 7075 T62 
@@ -19,13 +17,11 @@ This material is ultimately successful due to its significantly lowered Young’
 3. Diagram communicating how loads and boundary conditions were applied to your FEM
 Model. (screenshot)
 
-![Alt text](assets/images/BCs.png)
 
 4. Normal strain contours (in the strain gauge direction) from FEM
-![Alt text](assets/images/Strain.png)
 
 5. Contour plot of maximum principal stress from FEM
-![Alt text](assets/images/Max Stress.png)
+
 
 6. Summarize results from FEM calculation showing maximum normal stress (anywhere),
 load point deflection, strains at the strain gauge locations
