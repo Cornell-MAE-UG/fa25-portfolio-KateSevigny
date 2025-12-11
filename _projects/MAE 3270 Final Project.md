@@ -4,6 +4,7 @@ title: MAE 3270 Final Project
 description: Torque Wrench Design
 technologies: [Autodesk Fusion 360 and Ansys]
 image: assets/images/FEM.png
+permalink: /projects/mae-3270-final-project/
 ---
 
 Reflection
