@@ -13,7 +13,10 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Kate Sevigny
 description              : Kate Sevigny - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "fa25-portfolio-KateSevigny" # the subpath of your site, e.g. /blog/
+url                      : "https://kate-sevigny.github.io" # the base hostname & protocol for your site
+author                   : Kate Sevigny
+email                    : kas573@cornell.edu
 
 # Theme and Style
 theme: jekyll-theme-minimal
