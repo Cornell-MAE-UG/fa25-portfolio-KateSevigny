@@ -1,74 +1,96 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Kate Sevigny- Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "Kate-Sevigny-CV.pdf" | relative_url }}) in PDF format.
 
+Objective
+Aspiring Mechanical engineering student graduating in 2027 with a strong passion for clean energy and sustainable systems.
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+Education
+Cornell University
 
----
+Expected Graduation: May 2027
 
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+College of Engineering
 
----
+Major: Mechanical Engineering; GPA: 3.81
 
-#### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+Relevant Coursework: Introduction to Computing: Design and Development (Python), Statics and Mechanics of Solids, Thermodynamics, Dynamics, Introduction to Mechanical Design, Fluid Mechanics, System Dynamics, Mechanics of Materials
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+Spruce Creek High School
+High School Diploma
+Graduation: May, 2023
 
----
+Skills
+Software: Autodesk Fusion 360, SolidWorks (3D Modeling and FEA), Cadkey, OnShape, Microsoft Applications
+Programming: Python, MATLAB
+Tools: 3D Printing, Lathe, Mill, Hand Tools, Precision Measuring Tools, Power tools,
+Technical Experience
+Microflex Inc. 2025
 
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+Mechanical Engineering Internship
 
----
+Designed assemblies for expansion joints and corrugated hoses using CADKEY and SolidWorks for 3D modeling and Finite Element Analysis
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+Applied ASME piping codes and EJMA standards to various design quotations
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+Utilized design for manufacturing practices
 
----
+Cornell College of Engineering 2024-25
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+Academic Excellence Workshop Facilitator (CHEM 2090 and MATH 1920)
 
----
+Collaborated with a co-facilitator to formulate slideshows and worksheets for weekly sessions
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+Built professional oral and written communication skills with bimonthly workshops
 
----
+Fostered relationships with peers and younger engineering students in a supportive environment
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+Cornell University Solar Boat Student Project Team 2024-25
 
----
+Drivetrain Subteam Member
 
-#### References
+Used SolidWorks software in design and prototyping of the drivetrain assembly
+
+Went through the engineering design cycle with a semester long project of the coupler holder redesign, including designing, prototyping, testing, and integration
+
+Made adjustments during assembly with hand tools and machining (mill and lathe)
+
+Leadership Experience
+Cornell Women’s Club Volleyball 2023-25
+
+Vice President
+
+Communicated with students of various backgrounds to coordinate events
+
+Managed fundraising, budgeting, and team registration
+
+Theme Park Entertainment Group 2024-25
+
+Treasurer
+
+Analyze current and future attractions from an engineering perspective
+
+Used OnShape to prototype and 3D print designs for attractions
+
+Traveled to Orlando to gain hands on experience and learn industry best practices
+
+Engineering Leadership Certification Program 2025
+
+Candidate
+
+Attended retreats and weekly classes focused on knowledge of self, impact, and self-advocacy
+
+Met with a leadership coach biweekly to discuss core values and leadership purpose
+
+Worked on a year long small-group quest focused on fostering a sense of purpose and passion
+
+Extracurricular Activities
+Member of Pi Beta Phi Sorority
+Member of Society of Women Engineers
+References
 Available upon request.
-
----
