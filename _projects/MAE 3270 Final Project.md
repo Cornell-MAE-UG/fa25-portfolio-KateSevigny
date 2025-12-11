@@ -8,8 +8,8 @@ image: assets/images/FEM.png
 
 Reflection
 1. Image(s) of CAD model. Must show all key dimensions.
-![CAD screenshot](/assets/images/screenshot-2025-12-10-8-28-34-PM.png)
-![CAD screenshot 2](/assets/images/Cad 2.png)
+![CAD screenshot]({{ "/assets/images/screenshot-2025-12-10-8-28-34-PM.png" | relative_url }})
+![CAD screenshot 2]({{ "/assets/images/Cad 2.png" | relative_url }})
 
 2. Describe material used and its relevant mechanical properties.
 Material: Aluminum 7075 T62 
@@ -17,13 +17,13 @@ This material is ultimately successful due to its significantly lowered Young’
 
 3. Diagram communicating how loads and boundary conditions were applied to your FEM
 Model. (screenshot)
-![Boundary conditions](/assets/images/BCs.png)
+![Boundary conditions]({{ "/assets/images/BCs.png" | relative_url }})
 
 4. Normal strain contours (in the strain gauge direction) from FEM
-![Strain contours](/assets/images/Strain.png)
+![Strain contours]({{ "/assets/images/Strain.png" | relative_url }})
 
 5. Contour plot of maximum principal stress from FEM
-![Max principal stress](/assets/images/Max%20Stress.png)
+![Max principal stress]({{ "/assets/images/Max Stress.png" | relative_url }})
 
 6. Summarize results from FEM calculation showing maximum normal stress (anywhere),
 load point deflection, strains at the strain gauge locations
@@ -57,7 +57,7 @@ h = 0.75 in
 b = 0.5 in 
 c = 1 in
 Matlab Output (script appended):
-![Matlab output](/assets/images/Matlab%20Output.png)
+![Matlab output]({{ "/assets/images/Matlab Output.png" | relative_url }})
 
 
 Matlab Script for hand calcs:
