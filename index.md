@@ -13,6 +13,5 @@ My name is Kate Sevigny. I am a Mechanical Engineering student at Cornell Univer
 
 Outside of the classroom, I am involved with my Solar Boat project team, where I use engineering principles to create an electrified drivetrain for a solar powered boat. I also exercise creativity in the Theme Park Engineering Group, where we are currently designing a Cornell Theme Park. I have a strong passion to give back to those in my community, which is exercised by my job as an Academic Excellence Workshop Facilitator, where I teach underclassmen engineers in Calculus 3 and Chemistry. Besides engineering, I also play and am Vice President of Women's Club Volleyball.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects and <a href="{{ "/cv/" | relative_url }}">CV.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
