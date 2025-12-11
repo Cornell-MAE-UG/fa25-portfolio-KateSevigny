@@ -3,7 +3,7 @@ layout: project
 title: MAE 3260 Final Project
 description: Modeling the Human Heart as a System
 technologies: [MATLAB]
-image: /assets/images/function-graph.png
+image: /assets/images/HR.png
 ---
 
 **Summary of Project**
