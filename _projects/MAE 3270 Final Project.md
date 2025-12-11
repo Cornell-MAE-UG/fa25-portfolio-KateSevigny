@@ -9,8 +9,7 @@ image: assets/images/FEM.png
 Reflection
 1. Image(s) of CAD model. Must show all key dimensions.
 
-/assets/images/CAD 1.png
-/workspaces/fall-2025-portfolio-KateSevigny/assets/images/Screenshot 2025-12-10 at 8.28.34 PM.png
+![CAD Screenshot](assets/images/screenshot-2025-12-10-8-28-34-PM.png)
 
 2. Describe material used and its relevant mechanical properties.
 Material: Aluminum 7075 T62 
@@ -19,13 +18,13 @@ This material is ultimately successful due to its significantly lowered Young’
 3. Diagram communicating how loads and boundary conditions were applied to your FEM
 Model. (screenshot)
 
-assets/images/BCs.png
+![Alt text](assets/images/BCs.png)
 
 4. Normal strain contours (in the strain gauge direction) from FEM
-assets/images/Strain.png
+![Alt text](assets/images/Strain.png)
 
 5. Contour plot of maximum principal stress from FEM
-assets/images/Max Stress.png
+![Alt text](assets/images/Max Stress.png)
 
 6. Summarize results from FEM calculation showing maximum normal stress (anywhere),
 load point deflection, strains at the strain gauge locations
@@ -59,7 +58,7 @@ h = 0.75 in
 b = 0.5 in 
 c = 1 in
 Matlab Output (script appended):
-assets/images/Matlab Output.png
+![Matlab Output](assets/images/Matlab Output.png)
 
 
 
