@@ -1,16 +1,18 @@
 ---
 layout: default
-title: <Your Name>
+title: Kate Sevigny
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Composite.png" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Kate Sevigny. I am a Mechanical Engineering student at Cornell University. I am originally from Daytona Beach, Florida, and there, I gained a strong appreciation for environmental conservation and sustainability. In my time at Cornell, I have realized I have a strong passion for clean and energy efficient systems, which is the broad industry I am most eager to apply my Mechanical Engineering coursework to. As a whole, I hope to use engineering to better humanity on the greatest possible scale.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Outside of the classroom, I am involved with my Solar Boat project team, where I use engineering principles to create an electrified drivetrain for a solar powered boat. I also exercise creativity in the Theme Park Engineering Group, where we are currently designing a Cornell Theme Park. I have a strong passion to give back to those in my community, which is exercised by my job as an Academic Excellence Workshop Facilitator, where I teach underclassmen engineers in Calculus 3 and Chemistry. Besides engineering, I also play and am Vice President of Women's Club Volleyball.
+
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects and <a href="{{ "/cv/" | relative_url }}">CV.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
