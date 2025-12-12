@@ -11,6 +11,7 @@ Reflection
 1. Image(s) of CAD model. Must show all key dimensions.
 
 ![CAD screenshot]({{ "/assets/images/screenshot-2025-12-10-8-28-34-PM.png" | relative_url }})
+
 ![CAD screenshot 2]({{ "/assets/images/Cad 2.png" | relative_url }})
 
 2. Describe material used and its relevant mechanical properties.
@@ -18,9 +19,8 @@ Reflection
 Material: Aluminum 7075 T62 
 This material is ultimately successful due to its significantly lowered Young’s Modulus (approx 10x10^6 psi). This means that the material is less stiff than many other titanium or steel materials, and ultimately led to the torque wrench’s strain gauge’s voltage output being adequate for the constraints of the design. The lowered stiffness allowed for the dimensions of the wrench (b and h) to be large enough to meet the stress and fatigue factor of safety requirements. 
 
-3. Diagram communicating how loads and boundary conditions were applied to your FEM
+3. Diagram communicating how loads and boundary conditions were applied to your FEM Model (screenshot)
 
-Model. (screenshot)
 ![Boundary conditions]({{ "/assets/images/BCs.png" | relative_url }})
 
 4. Normal strain contours (in the strain gauge direction) from FEM
@@ -29,7 +29,7 @@ Model. (screenshot)
 
 5. Contour plot of maximum principal stress from FEM
 
-![Max principal stress]({{ "/assets/images/Max Stress.png" | relative_url }})
+![Max principal stress]({{ "/assets/images/max-stress.png" | relative_url }})
 
 6. Summarize results from FEM calculation showing maximum normal stress (anywhere),
 load point deflection, strains at the strain gauge locations
@@ -81,8 +81,7 @@ b = 0.5 in
 c = 1 in
 
 Matlab Output (script appended):
-
-![Matlab output]({{ "/assets/images/Matlab Output.png" | relative_url }})
+![Matlab output]({{ "/assets/images/matlab-output.png" | relative_url }})
 
 
 Matlab Script for hand calcs:
