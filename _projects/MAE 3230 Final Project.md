@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3230 Final Project
 description: Dissection of Chainsaw with an explanation of fluid mechanics concepts 
-technologies used: Hand Tools
+technologies: Hand Tools
 image: /assets/images/Chainsaw.JPG
 ---
 
