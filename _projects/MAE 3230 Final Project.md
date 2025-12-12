@@ -1,6 +1,6 @@
 ---
-layout: Project
-title: Fluid Mechanical Dissection
+layout: project
+title: MAE 3230 Final Project
 description: Dissection of Chainsaw with an explanation of fluid mechanics concepts 
 Machines Explored: Carburetor and 2 Stroke Engine
 image: /assets/images/Chainsaw.JPG
