@@ -14,4 +14,4 @@ This problem clearly showed me the progression of solving complex heat sink prob
 
 **PDF of the report:**
 
-[Download the full PDF]({{ "/_projects/MAE_3240_HW5.pdf" | relative_url }})
+[Download the full PDF]({{ "_projects/MAE_3240_HW5.pdf" | relative_url }})
