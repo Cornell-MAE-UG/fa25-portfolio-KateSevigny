@@ -2,8 +2,8 @@
 layout: project
 title: MAE 3240 Project
 description: Fin Array Analysis
-Concepts: [Fin Equation and Thermal Resistance]
-image: /assets/img/Fin Array Heater.png
+technologies: [Fin Equation and Thermal Resistance]
+image: /assets/images/Fin%20Array%20Heater.png
 ---
 
 **Summary of Project**
@@ -14,4 +14,4 @@ This problem clearly showed me the progression of solving complex heat sink prob
 
 **PDF of the report:**
 
-[Download the full PDF]({{ "_projects/MAE_3240_HW5.pdf" | relative_url }})
+[Download the full PDF]({{ "/assets/MAE_3240_HW5.pdf" | relative_url }})
