@@ -12,4 +12,4 @@ The final project in the course MAE 3260: System Dynamics is a culmination of ma
 
 **PDF of the report:**
 
-[Download the full report PDF]({{ "/assets/MAE3260 final groupwork report.docx.pdf" | relative_url }}) 
+<embed src="{{ "/assets/MAE3260 final groupwork report.docx.pdf" | relative_url }}" type="application/pdf" width="100%" height="600px" /> 
