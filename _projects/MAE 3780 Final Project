@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3780 Final Project
 description: Robot Competition
-Technologies: 
+Technologies: Arduino Uno, C, Wiring
 image: /assets/images/Cubie.JPG
 ---
 
@@ -12,4 +12,4 @@ This is the final project of MAE 3780: Mechatronics. With a team of 3, we applie
 
 **PDF of the report:**
 
-[Download the full PDF](https://github.com/Cornell-MAE-UG/fa25-portfolio-KateSevigny/blob/main/MAE%203780%20Final%20Report%20-%20Team%2011.pdf)
+[Download the full PDF](https://raw.githubusercontent.com/Cornell-MAE-UG/fa25-portfolio-KateSevigny/main/MAE%203780%20Final%20Report%20-%20Team%2011.pdf)
