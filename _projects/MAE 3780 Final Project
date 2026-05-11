@@ -15,4 +15,4 @@ This is the final project of MAE 3780: Mechatronics. With a team of 3, we applie
 
 **PDF of the report:**
 
-[Download MAE 3780 Final Report - Team 11]({{ "/MAE 3780 Final Report - Team 11.pdf" | relative_url }})
+<a href="{{ '/MAE 3780 Final Report - Team 11.pdf' | relative_url }}" download>Download MAE 3780 Final Report - Team 11</a>
