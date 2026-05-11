@@ -8,7 +8,7 @@ image: /assets/images/Cubie.JPG
 
 **Summary of Project**
 
-
+This is the final project of MAE 3780: Mechatronics. With a team of 3, we applied all the theoretical knowledge and professional skills to create "Cubie," a robot designed to collect as many cubes as possible in a competition. Individually, I mostly contributed to the wiring of the robot involving an H-Bridge, Color Sensor, and two servo motors. I also did part of the coding in C, which involved using an Arduino Uno without Arduino libraries. The competition was successful, ultimately getting 3rd in our pool of 7.
 
 **PDF of the report:**
 
