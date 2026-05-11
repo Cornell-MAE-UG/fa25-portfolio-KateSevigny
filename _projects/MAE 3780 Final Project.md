@@ -8,7 +8,8 @@ image: /assets/images/Composite.png
 
 **Summary of Project**
 
-This page contains my MAE 3780 final project report.
+This final report presents the scope, methods, and results from my MAE 3780 team project.  
+It summarizes our problem setup, analysis approach, and key conclusions from the work.
 
 **PDF of the report:**
 
