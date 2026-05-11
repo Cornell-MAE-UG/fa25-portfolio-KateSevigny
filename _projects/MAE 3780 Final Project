@@ -12,4 +12,4 @@ image: /assets/images/Cubie.JPG
 
 **PDF of the report:**
 
-[Download the full PDF]({{ "/assets/images/MAE 3780 Final Report- Team 11.pdf" | relative_url }})
+[Download the full PDF]({{ "/MAE 3780 Final Report - Team 11.pdf" | relative_url }})
